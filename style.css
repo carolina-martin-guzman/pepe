@@ -33,7 +33,7 @@ body, html {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 20px;
+    padding: 15px;
     box-sizing: border-box;
 }
 
@@ -55,7 +55,7 @@ body, html {
 .content-box p {
     font-size: 0.5em; 
     font-weight: 700;
-    margin-bottom: 6px; 
+    margin-bottom: 4px; 
     text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.8);
 }
 
@@ -63,7 +63,7 @@ ul {
     list-style: none;
     padding: 0;
     text-align: left;
-    margin-top: 10px; 
+    margin-top: 4px; 
 }
 
 li {
@@ -75,7 +75,7 @@ li {
 
 li::before {
     content: '⭐';
-    margin-right: 10px;
+    margin-right: 15px;
     text-shadow: none; 
 }
 
@@ -84,9 +84,9 @@ li::before {
     color: #003b73;
     font-weight: bold;
     padding: 10px 20px; 
-    border-radius: 30px;
+    border-radius: 20px;
     text-decoration: none;
-    margin-top: 15px; 
+    margin-top: 10px; 
     font-size: 0.5em; 
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     transition: background-color 0.3s ease;
